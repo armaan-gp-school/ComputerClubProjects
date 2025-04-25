@@ -26,7 +26,7 @@ def play_round(word):
             print("Wrong! Try again.")
 
 def main():
-    word_list = ["python", "banana", "computer", "giraffe", "puzzle"]
+    word_list = ["python", "banana", "computer", "giraffe", "puzzle", "david", "seminar"]
     print("=== Welcome to Word Scramble! ===")
 
     while True:
